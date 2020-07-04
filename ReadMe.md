@@ -1,8 +1,8 @@
 # TypeScript Practice
 
-> Goal of this project: using Typescript to read and parse `.csv` file, converting it to a HTML file as a report
+> Goal of this project: using Typescript to read and parse `.csv` file, convert, analyze and print the result as an HTML file
 
-- the folder `inheritance` is another method of building the same project you can compare to **composition method** that is used for this entire project
+- The folder `inheritance` is another method of building the same project you can compare to **composition method** that is used for this entire project
 
 ## Features Used
 
